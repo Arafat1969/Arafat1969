@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasin Arafat</h1>
-<h3 align="center">A Computer Science and Engineering Student from Bangladesh</h3>
+<h3 align="center">Computer Science and Engineering Student from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat1969&label=Profile%20views&color=0e75b6&style=flat" alt="arafat1969" /> </p>
 
